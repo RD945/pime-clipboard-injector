@@ -108,6 +108,8 @@ controls, or otherwise restrict programmatic text input.
 4. Use `Win+Space` to select **Clipboard Injector** from the Windows input
    methods.
 
+<img width="343" height="122" alt="image" src="https://github.com/user-attachments/assets/ed78bb6c-33d4-426d-915b-aa70d5d49dcb" />
+
 The installer copies the package to `%ProgramFiles(x86)%\PIME`, registers the
 text service, starts `PIMELauncher.exe`, and adds it to the current user's
 Startup folder.
