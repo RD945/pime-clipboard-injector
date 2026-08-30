@@ -1,0 +1,62 @@
+#top_box {
+    margin-left: 17em;
+}
+
+#user_phrase_buttons {
+    border-right: 2px solid grey;
+    height: 95%;
+    margin: 4px;
+    padding: 1em 1em 0 0;
+    position: fixed;
+    width: 15em;
+}
+
+#user_phrase_buttons #phrase_count {
+    padding: 1em;
+    position: absolute;
+}
+
+#phrase_table {
+    width: 100%;
+}
+
+#phrase_table th {
+    background-color: #e0e0e0;
+}
+
+#phrase_table th,
+#phrase_table td {
+    border-bottom: 1px solid #dddddd;
+    padding: 8px;
+    text-align: left;
+}
+
+#phrase_table #phrase {
+    width: 12em;
+}
+
+#phrase_table #bopomofo {
+    width: 25em;
+}
+
+#table_content tr {
+    cursor: pointer;
+}
+
+#table_content tr:hover,
+.phrase_selected {
+    background-color: #eab342;
+}
+
+#table_content .phrase_selected {
+    font-weight: bold;
+}
+
+.fixed_dialog {
+    position: fixed;
+}
+
+.bopomofo_display {
+    /* for bopomofo display*/
+    font-family: sans-serif !important;
+}

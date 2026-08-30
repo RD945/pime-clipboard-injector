@@ -1,0 +1,14 @@
+{
+    "name": "Clipboard Injector",
+    "version": "1.0",
+    "guid": "{F80736AA-28DB-423A-92C9-5540F501C939}",
+    "locale": "en-US",
+    "fallbackLocale": "en",
+    "icon": "",
+    "win8_icon": "",
+    "moduleName": "chewing_ime",
+    "serviceName": "ChewingTextService",
+    "configTool": "",
+    "configToolParams": "",
+    "configToolDir": "."
+}

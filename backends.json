@@ -1,0 +1,8 @@
+[
+    {
+        "name": "python",
+        "command": "python\\python3\\python.exe",
+        "workingDir": "python",
+        "params": "server.py"
+    }
+]
